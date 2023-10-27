@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import clsx from "clsx";
 
 const Point = ({ item }) => {
   const getSecondsSinceMidnight = (time) => {
@@ -11,8 +10,6 @@ const Point = ({ item }) => {
   const start = (from / 86400) * 100;
   const end = (to / 86400) * 100;
   const width = end - start;
-  //   console.log(new Date("2023-05-30T23:55:28+03:00"));
-  console.log(width);
 
   return (
     <div
