@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TimeLine-component/static/css/main.3bf3d6b4.css",
-    "main.js": "/TimeLine-component/static/js/main.1510e409.js",
+    "main.css": "/TimeLine-component/static/css/main.8cc81517.css",
+    "main.js": "/TimeLine-component/static/js/main.3c162a77.js",
     "index.html": "/TimeLine-component/index.html",
-    "main.3bf3d6b4.css.map": "/TimeLine-component/static/css/main.3bf3d6b4.css.map",
-    "main.1510e409.js.map": "/TimeLine-component/static/js/main.1510e409.js.map"
+    "main.8cc81517.css.map": "/TimeLine-component/static/css/main.8cc81517.css.map",
+    "main.3c162a77.js.map": "/TimeLine-component/static/js/main.3c162a77.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bf3d6b4.css",
-    "static/js/main.1510e409.js"
+    "static/css/main.8cc81517.css",
+    "static/js/main.3c162a77.js"
   ]
 }
