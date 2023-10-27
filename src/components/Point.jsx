@@ -10,7 +10,7 @@ const Point = ({ item }) => {
   const start = (from / 86400) * 100;
   const end = (to / 86400) * 100;
   const width = end - start;
-
+ 
   return (
     <div
       className={`
